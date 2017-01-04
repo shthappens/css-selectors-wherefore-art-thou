@@ -1,0 +1,30 @@
+h4 {
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+.dialog {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.stage-direction {
+  color: #362819;
+  text-align: center;
+}
+
+.capulet {
+  color: #0F5A8F;
+}
+
+.montague {
+  color: #CD4242;
+}
+
+.capulet .dialog {
+  color: #0077CC;
+}
+
+.montague .dialog {
+  color: #EE6363;
+}
