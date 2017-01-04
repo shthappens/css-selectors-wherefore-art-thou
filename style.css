@@ -17,12 +17,12 @@ h4 {
   color: #0F5A8F;
 }
 
-.montague {
-  color: #CD4242;
-}
-
 .capulet .dialog {
   color: #0077CC;
+}
+
+.montague {
+  color: #CD4242;
 }
 
 .montague .dialog {
